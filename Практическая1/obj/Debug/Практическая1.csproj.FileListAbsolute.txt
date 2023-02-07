@@ -1,0 +1,32 @@
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\bin\Debug\Практическая1.exe.config
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\bin\Debug\Практическая1.exe
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\bin\Debug\Практическая1.pdb
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.csproj.AssemblyReference.cache
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.csproj.SuggestedBindingRedirects.cache
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\MainWindow.g.cs
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\App.g.cs
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1_MarkupCompile.cache
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1_MarkupCompile.lref
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\MainWindow.baml
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.g.resources
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.Properties.Resources.resources
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.csproj.GenerateResource.cache
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.csproj.CoreCompileInputs.cache
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.exe
+C:\Users\X-AROK\source\repos\Практическая1\Практическая1\obj\Debug\Практическая1.pdb
+D:\C# Projects\Практическая1\Практическая1\bin\Debug\Практическая1.exe.config
+D:\C# Projects\Практическая1\Практическая1\bin\Debug\Практическая1.exe
+D:\C# Projects\Практическая1\Практическая1\bin\Debug\Практическая1.pdb
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\Практическая1.csproj.AssemblyReference.cache
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\Практическая1.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\MainWindow.g.cs
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\App.g.cs
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\Практическая1_MarkupCompile.cache
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\Практическая1_MarkupCompile.lref
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\MainWindow.baml
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\Практическая1.g.resources
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\Практическая1.Properties.Resources.resources
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\Практическая1.csproj.GenerateResource.cache
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\Практическая1.csproj.CoreCompileInputs.cache
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\Практическая1.exe
+D:\C# Projects\Практическая1\Практическая1\obj\Debug\Практическая1.pdb
